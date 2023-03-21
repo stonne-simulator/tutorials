@@ -1,4 +1,4 @@
 tile_type="FC"
-T_M=2
-T_K=32
+T_K=2
+T_S=32
 T_N=1
